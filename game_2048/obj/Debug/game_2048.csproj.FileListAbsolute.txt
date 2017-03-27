@@ -1,0 +1,47 @@
+c:\users\12345\documents\visual studio 2015\Projects\game_2048\game_2048\bin\Debug\game_2048.exe.config
+c:\users\12345\documents\visual studio 2015\Projects\game_2048\game_2048\bin\Debug\game_2048.exe
+c:\users\12345\documents\visual studio 2015\Projects\game_2048\game_2048\bin\Debug\game_2048.pdb
+c:\users\12345\documents\visual studio 2015\Projects\game_2048\game_2048\obj\Debug\game_2048.csprojResolveAssemblyReference.cache
+c:\users\12345\documents\visual studio 2015\Projects\game_2048\game_2048\obj\Debug\game_2048.Form1.resources
+c:\users\12345\documents\visual studio 2015\Projects\game_2048\game_2048\obj\Debug\game_2048.Properties.Resources.resources
+c:\users\12345\documents\visual studio 2015\Projects\game_2048\game_2048\obj\Debug\game_2048.csproj.GenerateResource.Cache
+c:\users\12345\documents\visual studio 2015\Projects\game_2048\game_2048\obj\Debug\game_2048.exe
+c:\users\12345\documents\visual studio 2015\Projects\game_2048\game_2048\obj\Debug\game_2048.pdb
+C:\Users\12345\Desktop\game_2048\game_2048\bin\Debug\game_2048.exe.config
+C:\Users\12345\Desktop\game_2048\game_2048\obj\Debug\game_2048.exe
+C:\Users\12345\Desktop\game_2048\game_2048\obj\Debug\game_2048.pdb
+C:\Users\12345\Desktop\game_2048\game_2048\obj\Debug\game_2048.csprojResolveAssemblyReference.cache
+C:\Users\12345\Desktop\game_2048\game_2048\obj\Debug\game_2048.Form1.resources
+C:\Users\12345\Desktop\game_2048\game_2048\obj\Debug\game_2048.csproj.GenerateResource.Cache
+C:\Users\12345\Desktop\game_2048\game_2048\bin\Debug\game_2048.exe
+C:\Users\12345\Desktop\game_2048\game_2048\bin\Debug\game_2048.pdb
+C:\Users\12345\Desktop\game_2048\game_2048\obj\Debug\game_2048.Properties.Resources.resources
+C:\Users\12345\Desktop\game_2048\game_2048\obj\Debug\game_2048.Form2.resources
+C:\Users\12345\Desktop\game_2048\game_2048\obj\Debug\game_2048.Form3.resources
+C:\Users\12345\Desktop\game_2048\game_2048\bin\Debug\game_2048.exe.manifest
+C:\Users\12345\Desktop\game_2048\game_2048\bin\Debug\game_2048.application
+C:\Users\12345\Desktop\game_2048\game_2048\obj\Debug\game_2048.exe.manifest
+C:\Users\12345\Desktop\game_2048\game_2048\obj\Debug\game_2048.application
+C:\Users\12345\Documents\Visual Studio 2015\Projects\game_2048\game_2048\bin\Debug\game_2048.exe.manifest
+C:\Users\12345\Documents\Visual Studio 2015\Projects\game_2048\game_2048\bin\Debug\game_2048.application
+C:\Users\12345\Documents\Visual Studio 2015\Projects\game_2048\game_2048\obj\Debug\game_2048.Form2.resources
+C:\Users\12345\Documents\Visual Studio 2015\Projects\game_2048\game_2048\obj\Debug\game_2048.Form3.resources
+C:\Users\12345\Documents\Visual Studio 2015\Projects\game_2048\game_2048\obj\Debug\game_2048.exe.manifest
+C:\Users\12345\Documents\Visual Studio 2015\Projects\game_2048\game_2048\obj\Debug\game_2048.application
+C:\Users\12345\Desktop\game_2048\game_2048\obj\Debug\game_2048.form4.resources
+C:\Users\12345\Desktop\2048_GAME\game_2048 files\game_2048\bin\Debug\game_2048.exe.config
+C:\Users\12345\Desktop\2048_GAME\game_2048 files\game_2048\obj\Debug\game_2048.exe
+C:\Users\12345\Desktop\2048_GAME\game_2048 files\game_2048\obj\Debug\game_2048.pdb
+C:\Users\12345\Desktop\2048_GAME\game_2048 files\game_2048\bin\Debug\game_2048.exe.manifest
+C:\Users\12345\Desktop\2048_GAME\game_2048 files\game_2048\bin\Debug\game_2048.application
+C:\Users\12345\Desktop\2048_GAME\game_2048 files\game_2048\bin\Debug\game_2048.exe
+C:\Users\12345\Desktop\2048_GAME\game_2048 files\game_2048\bin\Debug\game_2048.pdb
+C:\Users\12345\Desktop\2048_GAME\game_2048 files\game_2048\obj\Debug\game_2048.csprojResolveAssemblyReference.cache
+C:\Users\12345\Desktop\2048_GAME\game_2048 files\game_2048\obj\Debug\game_2048.Form1.resources
+C:\Users\12345\Desktop\2048_GAME\game_2048 files\game_2048\obj\Debug\game_2048.Form2.resources
+C:\Users\12345\Desktop\2048_GAME\game_2048 files\game_2048\obj\Debug\game_2048.Form3.resources
+C:\Users\12345\Desktop\2048_GAME\game_2048 files\game_2048\obj\Debug\game_2048.Form4.resources
+C:\Users\12345\Desktop\2048_GAME\game_2048 files\game_2048\obj\Debug\game_2048.Properties.Resources.resources
+C:\Users\12345\Desktop\2048_GAME\game_2048 files\game_2048\obj\Debug\game_2048.csproj.GenerateResource.Cache
+C:\Users\12345\Desktop\2048_GAME\game_2048 files\game_2048\obj\Debug\game_2048.exe.manifest
+C:\Users\12345\Desktop\2048_GAME\game_2048 files\game_2048\obj\Debug\game_2048.application
